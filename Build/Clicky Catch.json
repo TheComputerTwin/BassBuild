@@ -1,0 +1,16 @@
+{
+"companyName": "Brianna Tolley",
+"productName": "Clicky Catch",
+"productVersion": "1.0",
+"dataUrl": "Clicky Catch.data.unityweb",
+"wasmCodeUrl": "Clicky Catch.wasm.code.unityweb",
+"wasmFrameworkUrl": "Clicky Catch.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}
